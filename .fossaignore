@@ -1,2 +1,2 @@
 # fossaignore
-!examples
+!examples/*
